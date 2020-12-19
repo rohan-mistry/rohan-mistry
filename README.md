@@ -1,6 +1,6 @@
 ### Hi 👋 I am Rohan!
 
-![Rohan's Github Stats](https://github-readme-stats.vercel.app/api?username=rohan-mistry&show_icons=true&hide=stars&count_private=true)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rohan-mistry&show_icons=true&hide=stars&count_private=true)](https://github.com/rohan-mistry/github-readme-stats)
 <!--
 **rohan-mistry/rohan-mistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
