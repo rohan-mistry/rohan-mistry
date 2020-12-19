@@ -1,6 +1,6 @@
 ### Hi 👋 I am Rohan!
 
-[![](https://github-readme-stats.vercel.app/api?username=rohan-mistry&show_icons=true&hide=stars&count_private=true)](https://github.com/rohan-mistry/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=rohan-mistry&show_icons=true&hide=stars&count_private=true&custom_title=Github Stats)](https://github.com/rohan-mistry/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-mistry&layout=compact)](https://github.com/rohan-mistry/github-readme-stats)
 
 <!--
